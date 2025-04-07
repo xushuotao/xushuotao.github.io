@@ -7,7 +7,7 @@ title: "Shuotao Xu"
 
 ### About Me
 
-I am a Senior Researcher at Microsoft Research Asia-Vancouver. My research began in hardware, with a focus on near-storage accelerators, and has evolved through databases, vector search systems, and AI infrastructure disaggregation. I am now focused on AI chip and infrastructure design, taking a top-down, workload-driven approach that spans AI models, system software, and hardware architecture. I am particularly interested in leveraging Artificial Specialized Intelligence to co-design scalable, efficient platforms for modern AI.
+I am a Senior Researcher at [Microsoft Research Asia-Vancouver](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/). My research began in hardware, with a focus on near-storage accelerators, and has evolved through databases, vector search systems, and AI infrastructure disaggregation. I am now focused on AI chip and infrastructure design, taking a top-down, workload-driven approach that spans AI models, system software, and hardware architecture. I am particularly interested in leveraging Artificial Specialized Intelligence to co-design scalable, efficient platforms for modern AI.
 
 I received my Ph.D. (2021) and S.M. (2016) in Electrical Engineering and Computer Science from MIT, and my B.S. (2012) in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign.
 
