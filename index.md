@@ -38,4 +38,4 @@ I received my Ph.D. (2021) and S.M. (2016) in Electrical Engineering and Compute
 
 ### Service
 
-- Organizer, **The Seventh Young Architect Workshop** @ ASPLOS 2025 [Link](https://yarch2025.stanford.edu/)
+- Organizer, [**The Seventh Young Architect Workshop**](https://yarch2025.stanford.edu/) @ ASPLOS 2025
