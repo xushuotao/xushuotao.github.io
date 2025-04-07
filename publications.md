@@ -2,21 +2,22 @@
 layout: page
 title: Publications
 ---
+## Conference Publications
 
-## Hardware Disaggregation
+### Hardware Disaggregation
 
 - **Zhe Zhou, Yiqi Chen, Tao Zhang, Yang Wang, Ran Shu, Shuotao Xu, Peng Cheng, Lei Qu, Yongqiang Xiong, Jie Zhang, Guangyu Sun.** "NeoMem: Hardware/Software Co-Design for CXL-Native Memory Tiering." In *Proceedings of the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO'24)*, 2024. [[Link](https://doi.org/10.1109/MICRO61859.2024.00111)]
 - **Zhe Zhou, Shuotao Xu, Yiqi Chen, Tao Zhang, Ran Shu, Lei Qu, Peng Cheng, Yongqiang Xiong, Guangyu Sun.** "Polaris: Enhancing CXL-based Memory Expanders with Memory-side Prefetching." In *International Symposium on Advanced Parallel Processing Technologies (APPT)*, 2023. [[Link](https://link.springer.com/chapter/10.1007/978-981-99-7872-4_2)]
 
 ---
 
-## Large-Scale Training Systems
+### Large-Scale Training Systems
 
 - **Wenxuan Liu, Qihang Chen, Shuotao Xu, Hua Yang, Yuqing Yang, Peng Cheng.** "RAPIDSCRIBE: Bandwidth-aware Parallel Snapshots for Distributed Neural-Network Training." In *Proceedings of the 45th IEEE International Conference on Distributed Computing Systems (ICDCS'25)*. (To appear)
 
 ---
 
-## Vector Databases
+### Vector Databases
 
 - **Yaoqi Chen, Ruicheng Zheng, Qi Chen, Shuotao Xu, Qianxi Zhang, Xue Wu, Weihao Han, Hua Yuan, Mingqin Li, Yujing Wang, Jason Li, Fan Yang, Hao Sun, Weiwei Deng, Feng Sun, Qi Zhang, Mao Yang.** "OneSparse: A Unified System for Multi-index Vector Search." In *Companion Proceedings of the ACM Web Conference 2024 (WWW'24 Companion)*, 2024. [[Link](https://dl.acm.org/doi/10.1145/3589335.3648338)]
 - **Yuming Xu, Hengyu Liang, Jin Li, Shuotao Xu, Qi Chen, Qianxi Zhang, Cheng Li, Ziyue Yang, Fan Yang, Yuqing Yang, Peng Cheng, Mao Yang.** "SPFresh: Incremental In-Place Update for Billion-Scale Vector Search." In *Proceedings of the 29th ACM Symposium on Operating Systems Principles (SOSP'23)*, 2023. [[Link](https://dl.acm.org/doi/10.1145/3600006.3613166)]
@@ -24,7 +25,7 @@ title: Publications
 
 ---
 
-## Near-Data Processing Accelerators
+### Near-Data Processing Accelerators
 
 - **Xuhao Chen, Tianhao Huang, Shuotao Xu, Thomas Bourgeat, Chanwoo Chung, Arvind.** "FlexMiner: A Pattern-Aware Accelerator for Graph Pattern Mining." In *Proceedings of the 48th International Symposium on Computer Architecture (ISCA'21)*, 2021. [[Link](https://people.csail.mit.edu/shuotao/papers/isca2021.pdf)]
 - **Shuotao Xu, Thomas Bourgeat, Tianhao Huang, Hojun Kim, Sungjin Lee, Arvind.** "AQUOMAN: an Analytic-Query Offloading Machine." In *Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO'20)*, 2020. [[Link](https://www.microarch.org/micro53/papers/738300a386.pdf)]

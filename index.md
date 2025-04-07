@@ -3,33 +3,35 @@ layout: home
 title: "Shuotao Xu"
 ---
 
+<img src="assets/photo.jpg" alt="Shuotao Xu" style="width:160px; float:right; margin-left:20px; border-radius:8px;">
+
 ### About Me
 
-I am a Senior Researcher at Microsoft Research Asia. My research spans near-storage accelerators, vector databases, hardware disaggregation, and large-scale AI infrastructure.
+I am a Senior Researcher at Microsoft Research Asia. My research began in hardware, with a focus on near-storage accelerators, and has evolved through databases, vector search systems, and AI infrastructure disaggregation. I am now focused on AI chip and infrastructure design, taking a top-down, workload-driven approach that spans AI models, system software, and hardware architecture. I am particularly interested in leveraging Artificial Specialized Intelligence to co-design scalable, efficient platforms for modern AI.
 
-I'm especially interested in **AI chip and infrastructure design**, leveraging Artificial Specialized Intelligence to co-optimize workloads, system software, and hardware from a top-down perspective.
+I received my Ph.D. (2021) and S.M. (2016) in Electrical Engineering and Computer Science from MIT, and my B.S. (2012) in Electrical and Computer Engineering from the University of Illinois at Urbana-Champaign.
 
 📍 Vancouver, BC  
-📧 shuotaoxu@microsoft.com
+🔗 [Google Scholar](https://scholar.google.com/citations?user=Pbgme5oAAAAJ&hl=en)
 
 ---
 
 ### Research Areas
 
-- AI infrastructure and chip design  
-- Hardware-software co-design  
-- Vector databases and ANN search  
-- Memory and device disaggregation  
-- Near-data processing accelerators
+- AI-driven AI infrastructure design  
+- Hardware-software design for AI  
+- Hardware disaggregation systems  
+- Vector databases  
 
 ---
 
 ### Recent Publications
 
+- **[RAPIDSCRIBE @ ICDCS'25]**: LLM training snapshots
 - **[NeoMem @ MICRO'24]**: CXL-native memory tiering  
 - **[VBase @ OSDI'23]**: ANNS + SQL  
 - **[SPFresh @ SOSP'23]**: Real-time vector index update  
-- **[RAPIDSCRIBE @ ICDCS'25]**: LLM training snapshots
+
 
 [→ Full Publication List](publications.md)
 
