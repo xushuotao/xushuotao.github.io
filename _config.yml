@@ -1,0 +1,8 @@
+title: "Shuotao Xu"
+email: shuotaoxu@microsoft.com
+description: "Senior Researcher @ Microsoft Research Asia. AI Infrastructure & Chip Design."
+url: "https://xushuotao.github.io"
+baseurl: ""
+theme: minima
+plugins:
+  - jekyll-feed
